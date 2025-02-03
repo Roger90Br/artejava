@@ -24,4 +24,4 @@ Para rodar o projeto, basta seguir os seguintes passos:
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/SEU_USUARIO/artejava.git
+   git clone https://github.com/Roger90Br/artejava.git
